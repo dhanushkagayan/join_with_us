@@ -11,9 +11,14 @@ include "joomla.php";
 
 display_message();
 
+
 ?>
 
+<?php
 
+echo "helloworld";
+
+?>
 
 
 
